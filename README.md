@@ -1,2 +1,13 @@
 # Portifolio_1.0.0
-Meu primeiro portifólio (2º semestre 2026). Site,css, tudo feito no Vs code.
+Meu primeiro portfólio (2º semestre 2026). Site,css, tudo feito no Vs code.
+My first portfolio (2026 2nd semester). Site,css, all made in Vs code.
+
+Hi!
+Its already uploaded in Vercel too,
+its: https://portifolio100.vercel.app/
+Go on and check out!
+
+I'll update it a once a while,maybe changing the code structure a bit
+or even uploading some new projects.
+
+Good day!
